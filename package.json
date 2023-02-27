@@ -1,0 +1,8 @@
+{
+  "name": "test-node-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:exKAZUu/test-node-lib.git",
+  "author": "Sakamoto, Kazunori <exkazuu@gmail.com>",
+  "license": "MIT"
+}
